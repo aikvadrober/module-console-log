@@ -1,0 +1,17 @@
+{
+    "name": "aikvadrober/module-console-log",
+    "description": "Frontend console log capture and server-side logging for Magento 2",
+    "type": "magento2-module",
+    "license": "proprietary",
+    "require": {
+        "magento/framework": "*"
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "AiKvadrober\\ConsoleLog\\": ""
+        }
+    }
+}
