@@ -2,7 +2,7 @@
     "name": "aikvadrober/module-console-log",
     "description": "Frontend console log capture and server-side logging for Magento 2",
     "type": "magento2-module",
-    "license": "proprietary",
+    "license": "Apache-2.0",
     "require": {
         "magento/framework": "*"
     },
