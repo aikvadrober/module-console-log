@@ -1,5 +1,7 @@
 # AiKvadrober_ConsoleLog
 
+> **Warning:** This module is strictly intended for **local development and debugging purposes only**. Never deploy or enable it in a production environment. Use at your own risk.
+
 ## What it does
 
 Captures frontend JavaScript console output and writes it to a dedicated Magento log file for debugging.
